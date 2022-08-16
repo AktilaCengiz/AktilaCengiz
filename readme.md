@@ -1,6 +1,6 @@
-### Welcome to my GitHub profile! 
+## Welcome to my GitHub profile! 
 
-## Hi there 👋, I'm Aktila, i am from <img src="https://camo.githubusercontent.com/021b3b2e7d8ba6c7160fd66fc854047607ad4bd744ce5c87aa0a163d0dd78160/68747470733a2f2f692e696d6775722e636f6d2f66663534375a542e706e67" alt="drawing" style="width:25px;"/> Turkey!  I am a young developer and I try to learn new technology but lately i focused on web development technology
+# Hi there 👋, I'm Aktila, i am from <img src="https://camo.githubusercontent.com/021b3b2e7d8ba6c7160fd66fc854047607ad4bd744ce5c87aa0a163d0dd78160/68747470733a2f2f692e696d6775722e636f6d2f66663534375a542e706e67" alt="drawing" style="width:25px;"/> Turkey!  I am a young developer and I try to learn new technology but lately i focused on web development technology
 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClApESdcFGHJiOx5-lx-B-A?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
@@ -49,4 +49,10 @@
 :zap: GitHub Stats
 
 <br />
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aktilacengiz&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="Aktila's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aktilacengiz&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+<br/>
+
+:zap: Most Used Languages
+<br/>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktilacengiz&theme=dark&hide_border=true&layout=compact">

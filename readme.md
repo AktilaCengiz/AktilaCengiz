@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi there 👋, I'm Aktila, i am from drawing Turkey! <br>I am 19 years old and I try to learn new technology but lately i focused on web development technology<br>🪄 I'm currently working on a Full Stack Web Development!<br>🪶 I'm currently learning everything
+Hi there 👋, I'm Aktila, i am from drawing Turkey! <br>I am 20 years old and I try to learn new technology but lately i focused on web development technology<br>🪄 I'm currently working on a Full Stack Web Development!<br>🪶 I'm currently learning everything
 
 ## 🌐 Socials:
 

@@ -2,6 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=aktilacengiz&icon=2&color=7)](https://visitcount.itsvg.in)<br/>
 
 Hi there 👋, I'm Aktila, i am from drawing Turkey! <br>I am 22 years old and lately i focused on web/mobile development technology<br>🪄 I'm currently working on a Full Stack Web/Mobile Development!<br>
+We work with our own team: https://venosastudio.com
 
 ## 🌐 Socials:
 
@@ -20,5 +21,6 @@ Hi there 👋, I'm Aktila, i am from drawing Turkey! <br>I am 22 years old and l
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
